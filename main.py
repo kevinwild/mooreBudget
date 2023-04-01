@@ -1,2 +1,0 @@
-# heloo
-print("fuck you")
