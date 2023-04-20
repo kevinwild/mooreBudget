@@ -44,4 +44,5 @@ def transaction():
             print('you made an error try again')
 
 
-transaction()
+while True:
+    transaction()
